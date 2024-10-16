@@ -43,7 +43,7 @@ class HistoryArray:
 
 import unittest
 
-class TestSophisticatedArray(unittest.TestCase):
+class TestHistoryArray(unittest.TestCase):
 
     def setUp(self):
         self.instance = HistoryArray([10, 20, 30])
